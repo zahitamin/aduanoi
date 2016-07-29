@@ -1,0 +1,17 @@
+{
+    "sProcessing":   "Sedang memproses...",
+    "sLengthMenu":   "Papar _MENU_ rekod",
+    "sZeroRecords":  "Tiada rekod ditemui",
+    "sInfo":         "Memaparkan _START_ hingga _END_ daripada _TOTAL_ rekod",
+    "sInfoEmpty":    "Memaparkan 0 hingga 0 daripada 0 rekod",
+    "sInfoFiltered": "(disaring daripada _MAX_ jumlah rekod)",
+    "sInfoPostFix":  "",
+    "sSearch":       "Carian :",
+    "sUrl":          "",
+    "oPaginate": {
+        "sFirst":    "Pertama",
+        "sPrevious": "Sebelum",
+        "sNext":     "Seterus",
+        "sLast":     "Terakhir"
+    }
+}
